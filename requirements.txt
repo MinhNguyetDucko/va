@@ -1,5 +1,0 @@
-Pyaudio
-speechrecognition
-playsound
-requests
-gTTS
